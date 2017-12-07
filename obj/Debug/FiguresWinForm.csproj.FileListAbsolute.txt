@@ -1,0 +1,16 @@
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\bin\Debug\FiguresWinForm.exe.config
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\bin\Debug\FiguresWinForm.exe
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\bin\Debug\FiguresWinForm.pdb
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.Properties.Resources.resources
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.csproj.GenerateResource.Cache
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.exe
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.pdb
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.FormMovingFigures.resources
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\bin\Debug\ru-RU\FiguresWinForm.resources.dll
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.FormMovingFigures.ru-RU.resources
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\ru-RU\FiguresWinForm.resources.dll
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\bin\Debug\en\FiguresWinForm.resources.dll
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\FiguresWinForm.FormMovingFigures.en.resources
+C:\Users\Evhenij\source\repos\FiguresWinForm\FiguresWinForm\obj\Debug\en\FiguresWinForm.resources.dll

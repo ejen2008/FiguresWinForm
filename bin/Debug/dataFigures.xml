@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Triangle">
+    <Name>Triangle1</Name>
+    <LocationFigure>
+      <X>95</X>
+      <Y>158</Y>
+    </LocationFigure>
+    <VectorAndSpeedMovement>
+      <X>4</X>
+      <Y>1</Y>
+    </VectorAndSpeedMovement>
+    <IsMoveFigure>true</IsMoveFigure>
+    <SizeFigure>16</SizeFigure>
+  </Figure>
+</ArrayOfFigure>
